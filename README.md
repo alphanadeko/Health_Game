@@ -4,6 +4,8 @@ WebcamBased Health_Game (Not completed)
 
 1.  다운로드 및 실행
 
+DW Link : https://drive.google.com/file/d/1px18BCYAFhU_GbOp6FSNE4PjmU0djvjX/view?usp=sharing 에서 다운로드가 가능하다.
+
 
 2. 개발 상황과 추후 예정
 
